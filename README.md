@@ -4,6 +4,5 @@ A dynamic breadcrumb menu built using Next.js + app-router.
 
 ## Demo
 
-TODO
-
+https://next-dynamic-breadcrumbs.vercel.app/manager
 
